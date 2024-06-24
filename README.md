@@ -1,1 +1,1 @@
-# Heqalthcare-Insurance-Fraud-Analysis
+# Healthcare-Insurance-Fraud-Analysis
